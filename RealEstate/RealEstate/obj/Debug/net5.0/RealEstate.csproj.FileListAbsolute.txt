@@ -1,0 +1,17 @@
+D:\School\ingatlanok probafeladat\RealEstate\RealEstate\bin\Debug\net5.0\RealEstate.exe
+D:\School\ingatlanok probafeladat\RealEstate\RealEstate\bin\Debug\net5.0\realestates.csv
+D:\School\ingatlanok probafeladat\RealEstate\RealEstate\bin\Debug\net5.0\RealEstate.deps.json
+D:\School\ingatlanok probafeladat\RealEstate\RealEstate\bin\Debug\net5.0\RealEstate.runtimeconfig.json
+D:\School\ingatlanok probafeladat\RealEstate\RealEstate\bin\Debug\net5.0\RealEstate.runtimeconfig.dev.json
+D:\School\ingatlanok probafeladat\RealEstate\RealEstate\bin\Debug\net5.0\RealEstate.dll
+D:\School\ingatlanok probafeladat\RealEstate\RealEstate\bin\Debug\net5.0\ref\RealEstate.dll
+D:\School\ingatlanok probafeladat\RealEstate\RealEstate\bin\Debug\net5.0\RealEstate.pdb
+D:\School\ingatlanok probafeladat\RealEstate\RealEstate\obj\Debug\net5.0\RealEstate.csproj.AssemblyReference.cache
+D:\School\ingatlanok probafeladat\RealEstate\RealEstate\obj\Debug\net5.0\RealEstate.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\ingatlanok probafeladat\RealEstate\RealEstate\obj\Debug\net5.0\RealEstate.AssemblyInfoInputs.cache
+D:\School\ingatlanok probafeladat\RealEstate\RealEstate\obj\Debug\net5.0\RealEstate.AssemblyInfo.cs
+D:\School\ingatlanok probafeladat\RealEstate\RealEstate\obj\Debug\net5.0\RealEstate.csproj.CoreCompileInputs.cache
+D:\School\ingatlanok probafeladat\RealEstate\RealEstate\obj\Debug\net5.0\RealEstate.dll
+D:\School\ingatlanok probafeladat\RealEstate\RealEstate\obj\Debug\net5.0\ref\RealEstate.dll
+D:\School\ingatlanok probafeladat\RealEstate\RealEstate\obj\Debug\net5.0\RealEstate.pdb
+D:\School\ingatlanok probafeladat\RealEstate\RealEstate\obj\Debug\net5.0\RealEstate.genruntimeconfig.cache
