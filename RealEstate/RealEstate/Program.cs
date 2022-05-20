@@ -9,7 +9,7 @@ namespace RealEstate
         public static List<Ad> ads = new List<Ad>();
         static void Main(string[] args)
         {
-            ads = Loadfromcsv("realestates.csv");
+            ads = Ad.Loadfromcsv("realestates.csv");
             Console.WriteLine("6. feladat: Földszinti ingatlanok átlagos alapterülete: {0:f} m2", hatodikFeladat());
             Ad kozelAd = nyolcadikFeladat();
             Console.WriteLine("8.feladat: Mesevár óvodához legközelebbi tehermentes ingatlan dadatai:");

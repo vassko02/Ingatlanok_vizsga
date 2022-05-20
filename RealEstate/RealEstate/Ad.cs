@@ -50,6 +50,21 @@ namespace RealEstate
         {
 
         }
+        public static List<Ad> Loadfromcsv(string fajlnev)
+        {
+            List<Ad> Ads = new List<Ad>();
+            StreamReader sr = new StreamReader(fajlnev);
+            string[] adatok;
+            sr.ReadLine();
+            do
+            {
+                adatok = sr.ReadLine().Split(';');
+                Ad ujAd = new Ad(adatok);
+                Ads.Add(ujAd);
+            } while (!sr.EndOfStream);
+            sr.Close();
+            return Ads;
+        }
 
     }
 }

@@ -15,3 +15,20 @@ D:\School\ingatlanok probafeladat\RealEstate\RealEstate\obj\Debug\net5.0\RealEst
 D:\School\ingatlanok probafeladat\RealEstate\RealEstate\obj\Debug\net5.0\ref\RealEstate.dll
 D:\School\ingatlanok probafeladat\RealEstate\RealEstate\obj\Debug\net5.0\RealEstate.pdb
 D:\School\ingatlanok probafeladat\RealEstate\RealEstate\obj\Debug\net5.0\RealEstate.genruntimeconfig.cache
+E:\Ingatlanok_vizsga-main\RealEstate\RealEstate\bin\Debug\net5.0\RealEstate.exe
+E:\Ingatlanok_vizsga-main\RealEstate\RealEstate\bin\Debug\net5.0\realestates.csv
+E:\Ingatlanok_vizsga-main\RealEstate\RealEstate\bin\Debug\net5.0\RealEstate.deps.json
+E:\Ingatlanok_vizsga-main\RealEstate\RealEstate\bin\Debug\net5.0\RealEstate.runtimeconfig.json
+E:\Ingatlanok_vizsga-main\RealEstate\RealEstate\bin\Debug\net5.0\RealEstate.runtimeconfig.dev.json
+E:\Ingatlanok_vizsga-main\RealEstate\RealEstate\bin\Debug\net5.0\RealEstate.dll
+E:\Ingatlanok_vizsga-main\RealEstate\RealEstate\bin\Debug\net5.0\ref\RealEstate.dll
+E:\Ingatlanok_vizsga-main\RealEstate\RealEstate\bin\Debug\net5.0\RealEstate.pdb
+E:\Ingatlanok_vizsga-main\RealEstate\RealEstate\obj\Debug\net5.0\RealEstate.csproj.AssemblyReference.cache
+E:\Ingatlanok_vizsga-main\RealEstate\RealEstate\obj\Debug\net5.0\RealEstate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ingatlanok_vizsga-main\RealEstate\RealEstate\obj\Debug\net5.0\RealEstate.AssemblyInfoInputs.cache
+E:\Ingatlanok_vizsga-main\RealEstate\RealEstate\obj\Debug\net5.0\RealEstate.AssemblyInfo.cs
+E:\Ingatlanok_vizsga-main\RealEstate\RealEstate\obj\Debug\net5.0\RealEstate.csproj.CoreCompileInputs.cache
+E:\Ingatlanok_vizsga-main\RealEstate\RealEstate\obj\Debug\net5.0\RealEstate.dll
+E:\Ingatlanok_vizsga-main\RealEstate\RealEstate\obj\Debug\net5.0\ref\RealEstate.dll
+E:\Ingatlanok_vizsga-main\RealEstate\RealEstate\obj\Debug\net5.0\RealEstate.pdb
+E:\Ingatlanok_vizsga-main\RealEstate\RealEstate\obj\Debug\net5.0\RealEstate.genruntimeconfig.cache

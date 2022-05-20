@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\School\\ingatlanok probafeladat\\RealEstate\\RealEstate\\RealEstate.csproj",
+      "projectUniqueName": "E:\\Ingatlanok_vizsga-main\\RealEstate\\RealEstate\\RealEstate.csproj",
       "projectName": "RealEstate",
-      "projectPath": "D:\\School\\ingatlanok probafeladat\\RealEstate\\RealEstate\\RealEstate.csproj",
+      "projectPath": "E:\\Ingatlanok_vizsga-main\\RealEstate\\RealEstate\\RealEstate.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\School\\ingatlanok probafeladat\\RealEstate\\RealEstate\\obj\\",
+      "outputPath": "E:\\Ingatlanok_vizsga-main\\RealEstate\\RealEstate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
