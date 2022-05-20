@@ -1,0 +1,31 @@
+﻿<Window x:Class="InghatlanGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InghatlanGUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <ListBox Margin="5" Name="lb_eladok" DisplayMemberPath="Name" SelectionChanged="lb_eladok_SelectionChanged"/>
+        <StackPanel Grid.Column="1" Name="sp_jobboldal">
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Eladó neve:" Margin="5"/>
+                <Label Content="{Binding Name}" Name="lbl_elado" Margin="5"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Eladó telefonszáma:" Margin="5"/>
+                <Label Content="{Binding Phone}" Name="lbl_telefon" Margin="5"/>
+            </StackPanel>
+            <Button x:Name="btn_betolt" Content="Hirdetések betöltése" Margin="5" Click="btn_betolt_Click"/>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Hirdetések száma:" Margin="5"/>
+                <Label Content="" Name="lbl_hiredetesekSzama" Margin="5"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
