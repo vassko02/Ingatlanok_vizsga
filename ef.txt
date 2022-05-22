@@ -5,3 +5,6 @@ Install-Package Pomelo.EntityFrameworkCore.MySql -Version 5.0.4
 
 
 Scaffold-DbContext "server=localhost;database=radioadok;uid=root;pwd=;" Pomelo.EntityFrameworkCore.MySql -OutputDir Models
+
+
+https://drive.google.com/drive/u/1/folders/19SJe4b5_0c5XUakAKssKIJBEmhIyELIr
